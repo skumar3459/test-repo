@@ -2,7 +2,7 @@ package main
 //import "github.com/aws/aws-lambda-go/lambda"
 
 func handleRequest () (string, error) {
-    return "Hello from Go!", nil
+    return "Hello from Go! hihihi", nil
 }
 func main() {
     handleRequest()
